@@ -28,20 +28,24 @@ Here are some ideas to get you started:
 
 ## What tools I use
 
-- Github (if you didn't notice :>)
-- Android studio
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) (if you didn't notice :>)
+- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
 - Termux
-- NeoVim
-- Gitlab
+- ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim)
+- VSCode
+- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 - [catppuccin](https://github.com/catppuccin/catppuccin) (colours are important!)
-- stackoverflow (ofc!)
+- ![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=stackoverflow) (ofc!)
 - and other stuff
 
-## What Language I can use (if I have stackoverflow)
-- Java
-- Python
-- Html, CSS, JS
-- bash
+## Languages I can use (if I have stackoverflow)
+- ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+- ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python)
+- ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+  ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+- ![Bash](https://img.shields.io/badge/-Bash-3e474a?style=flat-square)
 - and others
 
 ## Contacts
