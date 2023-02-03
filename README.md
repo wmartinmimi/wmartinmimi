@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 
 [![wmartinmimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmartinmimi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/wmartinmimi)
 
+## Repositories I am proud of
+
+- [Little Music Player](https://github.com/martinmimigames/little-music-player)
+- [Little File Explorer](https://github.com/martinmimigames/little-file-explorer)
+- [Tiny Music Player](https://github.com/martinmimigames/tiny-music-player)
+- [Martinmimigames Official Website](https://github.com/martinmimigames/martinmimigames.github.io)
+- [apk-devtool](https://github.com/wmartinmimi/apk-devtool)
+- [markdown-html](https://github.com/wmartinmimi/markdown-html)
+- [fibonacci-java](https://github.com/wmartinmimi/fibonacci-java)
+
 ## What tools I use
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) (if you didn't notice :>)
