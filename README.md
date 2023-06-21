@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Enjoy developing for old Android phones
 - Prefer hot chocolate, not coffee
 - Use mainly java
-- Currently preparing for the big exam, sadly (sorry if I can't code as much!)
+- Currently trying out new random things
 
 ## Stats (why not)
 
