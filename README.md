@@ -40,24 +40,24 @@ Here are some ideas to get you started:
 
 ## What tools I use
 
-- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github) (if you didn't notice :>)
-- ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
+- ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&color=181717) (if you didn't notice :>)
+- ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?style=flat&logo=intellijidea&logoColor=000000&labelColor=ffffff&color=6B57FF)
 - Termux
-- ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim)
-- VSCode
-- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- ![NeoVim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&color=57A143&labelColor=0e588b)
+- ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC&labelColor=000000)
+- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab&labelColor=ffffff&color=FC6D26)
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=F05032&labelColor=000000)
 - [catppuccin](https://github.com/catppuccin/catppuccin) (colours are important!)
-- ![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=stackoverflow) (ofc!)
+- ![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?style=flat&logo=stackoverflow&color=F58025&labelColor=000000) (ofc!)
 - and other stuff
 
 ## Languages I can use (if I have stackoverflow)
-- ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-- ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat-square&logo=python)
-- ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-  ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-- ![Bash](https://img.shields.io/badge/-Bash-3e474a?style=flat-square)
+- ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=000000&labelColor=ffffff&color=f73534)
+- ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=F7DF1E&labelColor=3776AB)
+- ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+  ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+- ![Bash](https://img.shields.io/badge/-Bash-3e474a?style=flat&logo=gnubash)
 - and others
 
 ## Contacts
