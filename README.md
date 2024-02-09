@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 
 [![wmartinmimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmartinmimi&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/wmartinmimi)
 
+## My configs
+
+- [neovim](https://github.com/wmartinmimi/nvim-config)
+- [zsh](https://github.com/wmartinmimi/.zsh)
+
 ## Repositories I am proud of
 
 - [Little Music Player](https://github.com/martinmimigames/little-music-player)
@@ -51,7 +56,7 @@ Here are some ideas to get you started:
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&color=181717) (if you didn't notice :>)
 - ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?style=flat&logo=intellijidea&logoColor=000000&labelColor=ffffff&color=6B57FF)
 - Termux
-- ![NeoVim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&color=57A143&labelColor=0e588b)
+- ![NeoVim](https://img.shields.io/badge/-Neovim-black?style=flat&logo=neovim&color=57A143&labelColor=0e588b) #1 editor
 - ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat&logo=visualstudiocode&logoColor=007ACC&color=007ACC&labelColor=000000)
 - ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab&labelColor=ffffff&color=FC6D26)
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&color=F05032&labelColor=000000)
