@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## About myself
 
-- Enjoy developing for old Android phones
+- Enjoy trying out different areas of computing
 - Prefer hot chocolate, not coffee
 - Use mainly java
 - Currently trying out new random things
