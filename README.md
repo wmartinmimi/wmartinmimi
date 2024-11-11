@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 ## Languages I can use (if I have stackoverflow)
 - ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=000000&labelColor=ffffff&color=f73534)
 - ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=F7DF1E&labelColor=3776AB)
-- ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+- ![C](https://img.shields.io/badge/C-black?logo=c&logoColor=F7DF1E)
+- ![Go](https://img.shields.io/badge/Go-black.svg?&logo=go&logoColor=00ADD8)
 - ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
 - ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
@@ -79,14 +79,14 @@ Here are some ideas to get you started:
 
 ## Frameworks
 
-- ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
+- ![Astro](https://img.shields.io/badge/Astro-black?logo=astro&logoColor=BC52EE)
 - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 
 ## System
 
-- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-black?logo=arch-linux&logoColor=1793D1)
 
 ## Contacts
 
