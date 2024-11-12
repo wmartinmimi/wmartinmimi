@@ -71,8 +71,8 @@ Here are some ideas to get you started:
 - ![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)
 - ![Html](https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
-  ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=3178C6&color=3178C6&labelColor=fff)
 - ![Bash](https://img.shields.io/badge/-Bash-3e474a?style=flat&logo=gnubash)
 - and others
 
