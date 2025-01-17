@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My website
 
-[https://wmartinmimi.github.io/](https://wmartinmimi.github.io/)
+[https://martinmimi.pages.dev/](https://martinmimi.pages.dev/)
 
 ## Where I create larger projects for the world
 
